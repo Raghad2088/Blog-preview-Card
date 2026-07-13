@@ -19,9 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### The challenge
 
-Users should be able to:
 
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
@@ -29,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Raghad2088/Blog-preview-card.](https://github.com/Raghad2088/Blog-preview-card.)
-- Live Site URL: [https://raghad2088.github.io/Blog-preview-card./](https://raghad2088.github.io/Blog-preview-card./)
+- Solution URL: https://github.com/Raghad2088/Blog-preview-Card
+- Live Site URL: https://raghad2088.github.io/Blog-preview-Card/
 
 ## My process
 
